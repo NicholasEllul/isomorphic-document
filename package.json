@@ -1,0 +1,20 @@
+{
+  "name": "isomorphic-document",
+  "version": "0.0.2",
+  "description": "Use the document object on both client and server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "browser.js",
+    "index.d.ts"
+  ],
+  "author": "Nicholas Ellul",
+  "license": "MIT",
+  "browser": "browser.js",
+  "dependencies": {
+    "jsdom": "^16.4.0"
+  }
+}
