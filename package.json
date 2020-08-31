@@ -1,6 +1,6 @@
 {
   "name": "isomorphic-document",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Use the document object on both client and server side",
   "main": "index.js",
   "scripts": {
